@@ -1,0 +1,12 @@
+.module AI_System
+
+
+.globl sys_ai_update
+.globl sys_ai_behaviour_track_player
+.globl sys_ai_behaviour_patrol_top_down
+.globl sys_ai_behaviour_patrol_bot
+.globl sys_ai_behaviour_patrol_top
+.globl sys_ai_behaviour_left_right
+.globl sys_ai_behaviour_inmovile_enemy
+.globl sys_ai_enemy_dog
+.globl sys_ai_behaviour_play_sound_effect

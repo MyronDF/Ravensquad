@@ -1,0 +1,3 @@
+.module Game_Animations_Manager
+
+.globl man_game_animation_play
